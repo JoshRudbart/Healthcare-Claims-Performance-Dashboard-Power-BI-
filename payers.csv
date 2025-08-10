@@ -1,0 +1,9 @@
+payer_id,payer_name,payer_type
+PYR001,Payer 1,Medicare
+PYR002,Payer 2,Medicare
+PYR003,Payer 3,Medicare
+PYR004,Payer 4,Exchange
+PYR005,Payer 5,Exchange
+PYR006,Payer 6,Commercial
+PYR007,Payer 7,Commercial
+PYR008,Payer 8,Exchange

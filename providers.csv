@@ -1,0 +1,26 @@
+provider_id,provider_name,specialty
+PRV001,Provider 1,OB/GYN
+PRV002,Provider 2,Orthopedics
+PRV003,Provider 3,Dermatology
+PRV004,Provider 4,OB/GYN
+PRV005,Provider 5,Cardiology
+PRV006,Provider 6,Endocrinology
+PRV007,Provider 7,Dermatology
+PRV008,Provider 8,Dermatology
+PRV009,Provider 9,OB/GYN
+PRV010,Provider 10,Pediatrics
+PRV011,Provider 11,Cardiology
+PRV012,Provider 12,OB/GYN
+PRV013,Provider 13,Cardiology
+PRV014,Provider 14,Cardiology
+PRV015,Provider 15,Endocrinology
+PRV016,Provider 16,Dermatology
+PRV017,Provider 17,Orthopedics
+PRV018,Provider 18,Endocrinology
+PRV019,Provider 19,Endocrinology
+PRV020,Provider 20,Cardiology
+PRV021,Provider 21,Psychiatry
+PRV022,Provider 22,Dermatology
+PRV023,Provider 23,Pediatrics
+PRV024,Provider 24,Endocrinology
+PRV025,Provider 25,Orthopedics
